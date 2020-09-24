@@ -1,0 +1,10 @@
+.modal-body {
+  padding: 0;
+  border-radius: inherit;
+
+  box-shadow: 5px 10px 8px #292929;
+}
+
+.modal-dialog {
+  margin: 0;
+}

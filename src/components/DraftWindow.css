@@ -1,0 +1,5 @@
+.draftWindow {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+}

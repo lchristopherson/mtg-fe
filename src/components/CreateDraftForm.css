@@ -1,0 +1,10 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+input[type=text] {
+  padding: 10px;
+  margin: 10px 10px;
+  border: 2px solid #eee;
+  border-radius:10px;
+}

@@ -1,0 +1,6 @@
+.draftSelectionWindow {
+  display: inline-block;
+  background-color: dimgrey;
+
+  min-height: 472px;
+}
